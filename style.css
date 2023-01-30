@@ -1,0 +1,19 @@
+body {
+    padding: 0px;
+    font-style: italic;
+}
+
+#h {
+    background-color: black;
+    color: white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
